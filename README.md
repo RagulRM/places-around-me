@@ -216,6 +216,20 @@ Next start the server from the projects main directory using python3 manage.py r
 
 ```
 ## Output:
+### home.html
+![home](https://github.com/RagulRM/places-around-me/assets/121609342/703fc17b-abd8-43cf-b554-f6a9d64b9059)
+
+### hotel.html
+![Hotel](https://github.com/RagulRM/places-around-me/assets/121609342/7932e4b6-d86e-4648-b548-d96d61614ab1)
+
+### school.html
+![School](https://github.com/RagulRM/places-around-me/assets/121609342/03ceb2a3-6ee5-4143-a042-c916d6870316)
+
+### temple.html
+![temple](https://github.com/RagulRM/places-around-me/assets/121609342/d8f3a5ac-c4ae-4cb5-9555-eacc130f76af)
+
+## Html Validator
+![Validator](https://github.com/RagulRM/places-around-me/assets/121609342/6b2e3fd1-59de-4bd7-8d6b-facd3a12b1c6)
 
 ## Result:
 Hence a website has been developed to display details about places around my house.
